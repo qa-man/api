@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="environment" value="dev" />
+    <Parameter name="pat" value="porsonal_access_token_example" />
+  </TestRunParameters>
+</RunSettings>
